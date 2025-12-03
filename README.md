@@ -1,6 +1,6 @@
 # Welcome to my Github 
 
-<img width="1792" height="2400" alt="Gemini_Generated_Image_geo4mmgeo4mmgeo4" src="https://github.com/user-attachments/assets/c6f08e79-493e-41dc-a068-e6b7fd3816c1" />
+<img width="358.4" height="480" alt="Gemini_Generated_Image_geo4mmgeo4mmgeo4" src="https://github.com/user-attachments/assets/c6f08e79-493e-41dc-a068-e6b7fd3816c1" />
 
 ***About Me:***
 
