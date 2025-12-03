@@ -1,2 +1,5 @@
-# Daizhi-Frank-Fan
-This is my Introduction repo !!!
+# Welcome to my Github 
+self introduction:
+
+Name: Daizhi (Frank) Fan
+
