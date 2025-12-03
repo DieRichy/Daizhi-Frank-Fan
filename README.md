@@ -1,5 +1,6 @@
 # Welcome to my Github 
-self introduction:
 
-Name: Daizhi (Frank) Fan
+***About Me:***
+
+*Name: Daizhi (Frank) Fan*
 
