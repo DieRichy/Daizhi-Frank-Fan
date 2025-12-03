@@ -2,13 +2,13 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3><h1 align="center">👋 Hi, I’m <strong>Daizhi (Frank) Fan</strong></h1></h3>
+    <h3><h1 align="center">👋Welcome to My Personal Page</strong></h1></h3>
     <p align="center">
   🚀 AI Enthusiast • 🤖 LLM Agent Explorer • 📸 CV & NLP Learner  
 </p>
   </div>
   <img src="https://github.com/user-attachments/assets/c6f08e79-493e-41dc-a068-e6b7fd3816c1" 
-       width="160" 
+       width="380" 
        style="margin-left: 20px; border-radius: 12px;" />
 </div>
 
