@@ -1,8 +1,5 @@
 # Welcome to my Github 
 
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/c6f08e79-493e-41dc-a068-e6b7fd3816c1" width="180">
-</p>
 
 ***About Me:***
 <h1 align="center">👋 Hi, I’m <strong>Daizhi (Frank) Fan</strong></h1>
@@ -11,6 +8,9 @@
   🚀 AI Enthusiast • 🤖 LLM Agent Explorer • 📸 CV & NLP Learner  
 </p>
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/c6f08e79-493e-41dc-a068-e6b7fd3816c1" width="358.4">
+</p>
 ---
 
 ### 🌟 About Me
