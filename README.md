@@ -9,7 +9,7 @@
   </div>
   <img src="https://github.com/user-attachments/assets/c6f08e79-493e-41dc-a068-e6b7fd3816c1" 
        width="380" 
-       style="margin-left: 20px; border-radius: 12px;" />
+       style="display: block; margin: 0 auto; border-radius: 12px;" />
 </div>
 
 ### 🌟 About Me
